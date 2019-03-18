@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <enchilada>
-            <Filename>10.0.5-20190210-OFFICIAL-enchilada.zip</Filename>
+            <Filename>10.0.6-20190318-OFFICIAL-enchilada.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for enchilada">https://sourceforge.net/projects/liquid-remix/files/enchilada/liquid_remix-10.0.5-20190210-OFFICIAL-enchilada.zip/download</RomUrl>
+                description="Download latest build for enchilada">https://sourceforge.net/projects/liquid-remix/files/enchilada/liquid_remix-10.0.6-20190318-OFFICIAL-enchilada.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://del.dog/icihanudud.coffeescript</ChangelogUrl>
+                description="Click here to view latest changes">https://del.dog/cepahacodo.coffeescript</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
@@ -19,15 +19,15 @@
     </Official>
     <Official>
         <fajita>
-            <Filename>10.0.5-20190210-OFFICIAL-fajita.zip</Filename>
+            <Filename>10.0.6-20190318-OFFICIAL-fajita.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for fajita">https://sourceforge.net/projects/liquid-remix/files/fajita/liquid_remix-10.0.5-20190210-OFFICIAL-fajita.zip/download</RomUrl>
+                description="Download latest build for fajita">https://sourceforge.net/projects/liquid-remix/files/fajita/liquid_remix-10.0.6-20190318-OFFICIAL-fajita.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://del.dog/icihanudud.coffeescript</ChangelogUrl>
+                description="Click here to view latest changes">https://del.dog/cepahacodo.coffeescript</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
