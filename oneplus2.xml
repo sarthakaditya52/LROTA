@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
-        <enchilada>
+        <oneplus2>
             <Filename>10.0.7-20190414-OFFICIAL-enchilada.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for enchilada">https://sourceforge.net/projects/liquid-remix/files/enchilada/liquid_remix-10.0.7-20190414-OFFICIAL-enchilada.zip/download</RomUrl>
+                description="Download latest build for oneplus2">https://sourceforge.net/projects/liquid-remix/files/enchilada/liquid_remix-10.0.7-20190414-OFFICIAL-enchilada.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -15,6 +15,6 @@
             	id="open_gapps"
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
-        </enchilada>
+        </oneplus2>
     </Official>
 </SlimOTA>
