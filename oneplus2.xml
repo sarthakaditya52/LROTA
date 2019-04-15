@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <oneplus2>
-            <Filename>10.0.7-20190414-OFFICIAL-enchilada.zip</Filename>
+            <Filename>10.0.7-20190414-OFFICIAL-oneplus2.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
