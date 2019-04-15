@@ -1,20 +1,38 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
-        <oneplus2>
-            <Filename>liquid_remix-10.0.7-20190415-OFFICIAL-oneplus2.zip</Filename>
+        <enchilada>
+            <Filename>10.0.7-20190414-OFFICIAL-enchilada.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for oneplus2">https://sourceforge.net/projects/liquid-remix/files/oneplus2/liquid_remix-10.0.7-20190415-OFFICIAL-oneplus2.zip/download</RomUrl>
+                description="Download latest build for enchilada">https://sourceforge.net/projects/liquid-remix/files/enchilada/liquid_remix-10.0.7-20190414-OFFICIAL-enchilada.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://del.dog/imesiwekuw.diff</ChangelogUrl>
+                description="Click here to view latest changes">https://del.dog/sakodulohe.coffeescript</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
-        </oneplus2>
+        </enchilada>
+    </Official>
+    <Official>
+        <fajita>
+            <Filename>10.0.7-20190414-OFFICIAL-fajita.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="LiquidRemix"
+                description="Download latest build for fajita">https://sourceforge.net/projects/liquid-remix/files/fajita/liquid_remix-10.0.7-20190414-OFFICIAL-fajita.zip/download</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Click here to view latest changes">https://del.dog/sakodulohe.coffeescript</ChangelogUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="OpenGApps"
+            	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
+        </fajita>
     </Official>
 </SlimOTA>
