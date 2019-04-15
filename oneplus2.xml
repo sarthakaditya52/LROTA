@@ -17,21 +17,4 @@
             	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
         </enchilada>
     </Official>
-    <Official>
-        <fajita>
-            <Filename>10.0.7-20190414-OFFICIAL-fajita.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="LiquidRemix"
-                description="Download latest build for fajita">https://sourceforge.net/projects/liquid-remix/files/fajita/liquid_remix-10.0.7-20190414-OFFICIAL-fajita.zip/download</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="Click here to view latest changes">https://del.dog/sakodulohe.coffeescript</ChangelogUrl>
-            <OpenGappsUrl
-            	id="open_gapps"
-            	title="OpenGApps"
-            	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
-        </fajita>
-    </Official>
 </SlimOTA>
