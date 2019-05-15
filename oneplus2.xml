@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <oneplus2>
-            <Filename>liquid_remix-10.0.7-20190415-OFFICIAL-oneplus2.zip</Filename>
+            <Filename>liquid_remix-10.0.8-20190514-OFFICIAL-oneplus2.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for oneplus2">https://sourceforge.net/projects/liquid-remix/files/oneplus2/liquid_remix-10.0.7-20190415-OFFICIAL-oneplus2.zip/download</RomUrl>
+                description="Download latest build for oneplus2">https://sourceforge.net/projects/liquid-remix/files/oneplus2/liquid_remix-10.0.8-20190514-OFFICIAL-oneplus2.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://del.dog/imesiwekuw.diff</ChangelogUrl>
+                description="Click here to view latest changes">https://forum.xda-developers.com/showpost.php?p=78953937&postcount=2</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
